@@ -1,0 +1,2 @@
+Analyte1,Analyte2,interaction_coeff,Pval,FDRadjPval,rsquared,metabName,Protein (NLM gene lookup),Reaction Lookup from HMDB (given protein)
+GATM,TF16.2,0.175833891,1.29E-05,0.025792395,0.168632858,guanidinoacetic acid,glycine amidinotransferase,L-Arginine+Glycine=Ornithine+Guanidoacetic acid
