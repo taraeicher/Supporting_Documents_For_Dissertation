@@ -1,129 +1,129 @@
-﻿Analyte/Pathway,Analyte Type,Paper,Measured in Dataset,,,"Supplementary Table 4. The compiled list of literature-supported pathways, gene sets, and compound classes for the cancer data."
-OCT4,Gene,33954114,No,,,
-FBAL,Metabolite,35320055; PMC3837334,No,,,
-2'-deoxyuridine 5'-triphosphate,Metabolite,PMC3837334,Yes,,,
-5-10 methenyltetrahydrofolate,Metabolite,21332317,No,,,
-5-10 methylenetetrahydrofolate,Metabolite,21332317,No,,,
-5-methyltetrahydrofolate,Metabolite,21332317,No,,,
-"5,10 methyltetrahydrofolate",Metabolite,35320055,No,,,
-ABCB1,Gene,33954114,Yes,,,
-ABCC2,Gene,33954114,Yes,,,
-ABCG2,Gene,33954114,Yes,,,
-APC,Gene,33954114,Yes,,,
-apoptosis,Pathway,34462428,Yes,,,
-AXIN1,Gene,33954114,Yes,,,
-AXIN2,Gene,33954114,Yes,,,
-BCL9,Gene,33954114,Yes,,,
-BMI1,Gene,33954114,No,,,
-BRG1,Gene,33954114,No,,,
-BTRC,Gene,33954114,Yes,,,
-CBY1,Gene,33954114,Yes,,,
-CCND1,Gene,33954114,Yes,,,
-CD44,Gene,33954114,Yes,,,
-CDA,Gene,27569869,Yes,,,
-CDH1,Gene,33954114,Yes,,,
-CDH2,Gene,33954114,Yes,,,
-CES*,Gene,27569869,Yes,,,
-citric acid,Metabolite,34151400,Yes,,,
-CREBBP,Gene,33954114,Yes,,,
-CSNK1A1,Gene,33954114,Yes,,,
-CTNNA1,Gene,33954114,Yes,,,
-CTNNB1,Gene,33954114,Yes,,,
-CTNNBIP1,Gene,33954114,Yes,,,
-CTNND1,Gene,33954114,No,,,
-CYLD,Gene,33954114,Yes,,,
-deoxyadenosylcobalamin,Metabolite,21332317,No,,,
-DHFR,Gene,21332317,Yes,,,
-Dihydrofluorouracil,Metabolite,21332317,No,,,
-dihydrofolate,Metabolite,35320055,No,,,
-disulfide cystine,Metabolite,34151400,No,,,
-DKK1,Gene,33954114,Yes,,,
-DKK2,Gene,33954114,Yes,,,
-DNA repair,Pathway,35320055,Yes,,,
-DNA replication,Pathway,35320055,Yes,,,
-DNMT3A,Gene,33954114,Yes,,,
-DPD,Metabolite,PMC3837334,No,,,
-DPYD,Gene,21332317; 35320055,Yes,,,
-DVL1,Gene,33954114,Yes,,,
-DVL2,Gene,33954114,Yes,,,
-DVL3,Gene,33954114,Yes,,,
-E2F1,Gene,34151400,Yes,,,
-FdUDP,Metabolite,PMC3837338,No,,,
-FdUMP,Metabolite,PMC3837339,No,,,
-FdUTP,Metabolite,PMC3837337,No,,,
-Formyltetrahydrofolate,Metabolite,21332317,No,,,
-FUDP,Metabolite,PMC3837336,No,,,
-FUDR,Metabolite,PMC3837340,No,,,
-FUMP,Metabolite,PMC3837335,No,,,
-FURIN,Gene,PMC3837334,Yes,,,
-FUTP,Metabolite,PMC3837341,No,,,
-FZD*,Gene,33954114,Yes,,,
-glycine biosynthesis,Pathway,33801846,No,,,
-GSK3B,Gene,33954114,Yes,,,
-Hedgehog,Pathway,35320055,Yes,,,
-homocysteine,Metabolite,21332317,No,,,
-JAK/STAT,Pathway,35320055,Yes,,,
-LEF1,Gene,33954114,Yes,,,
-LGR5,Gene,33954114,Yes,,,
-LGR6,Gene,33954114,Yes,,,
-LRP5,Gene,33954114,Yes,,,
-LRP6,Gene,33954114,Yes,,,
-malic acid,Metabolite,34151400,Yes,,,
-methotrexate,Metabolite,35320055,No,,,
-methylcobalamin,Metabolite,21332317,No,,,
-MGLH1,Gene,26479312,No,,,
-MGMT,Gene,26479312,Yes,,,
-MTHFR,Gene,21332317,Yes,,,
-MYC,Gene,33954114,Yes,,,
-NANOG,Gene,33954114,Yes,,,
-NF-kappaB,Pathway,35320055,Yes,,,
-NLK,Gene,33954114,Yes,,,
-Notch,Pathway,35320055,Yes,,,
-nucleotide synthesis,Pathway,34462428,No,,,
-Oxidative stress,Pathway,34151400,Yes,,,
-PAR1,Gene,33954114,No,,,
-PPP2CA,Gene,33954114,Yes,,,
-PROC,Gene,33954114,Yes,,,
-PSAT1,Gene,33801846,Yes,,,
-Purine sythesis,Pathway,35320055,No,,,
-PYGO1,Gene,33954114,Yes,,,
-PYGO2,Gene,33954114,Yes,,,
-Pyrimidine nucleosides,Metabolite class,34151400,Yes,,,
-pyrimidine salvage,Pathway,15319798,Yes,,,
-RAC1,Gene,33954114,Yes,,,
-ribosome biogenesis,Pathway,34462428,Yes,,,
-RNF43,Gene,33954114,Yes,,,
-RRM1,Gene,35320055,No,,,
-RRM2,Gene,PMC3837334,Yes,,,
-rRNA Processing,Pathway,34462428,Yes,,,
-rRNA Synthesis,Pathway,34462428,No,,,
-RSPO1,Gene,33954114,Yes,,,
-serine,Metabolite,33801846,Yes,,,
-serine biosynthesis,Pathway,33801846,Yes,,,
-SFRP1,Gene,33954114,Yes,,,
-SNAI1,Gene,33954114,Yes,,,
-succinate,Metabolite,34151400,Yes,,,
-TAB1,Gene,33954114,No,,,
-TAB2,Gene,33954114,Yes,,,
-TAFAZZIN,Gene,33954114,No,,,
-TAK1,Gene,33954114,No,,,
-tetrahydrofolate,Metabolite,35320055,No,,,
-thymidine,Metabolite,21332317,No,,,
-TNFSF10,Gene,34151400,Yes,,,
-TNKS,Gene,33954114,Yes,,,
-TP53,Gene,34151400,Yes,,,
-Tricarboxylic acid cycle,Pathway,34151400,No,,,
-TYMP,Gene,27569869,Yes,,,
-TYMS,Gene,PMC3837334,Yes,,,
-UCK1,Gene,PMC3837334,Yes,,,
-UMPS,Gene,PMC3837334,Yes,,,
-UPP1,Gene,PMC3837334; 15319798,Yes,,,
-UPP2,Gene,PMC3837334,Yes,,,
-uridine,Metabolite,21332317,Yes,,,
-VIM,Gene,33954114,Yes,,,
-WIF1,Gene,33954114,Yes,,,
-WLS,Gene,33954114,Yes,,,
-WNT,Gene,33954114,No,,,
-Wnt signaling,Pathway,35320055,Yes,,,
-WTX,Gene,33954114,No,,,
-ZNRF3,Gene,33954114,Yes,,,
+﻿Analyte/Pathway,Analyte Type,Paper
+4-Oct,Gene,33954114
+FBAL,Metabolite,35320055; PMC3837334
+2'-deoxyuridine 5'-triphosphate,Metabolite,PMC3837334
+5-10 methenyltetrahydrofolate,Metabolite,21332317
+5-10 methylenetetrahydrofolate,Metabolite,21332317
+5-methyltetrahydrofolate,Metabolite,21332317
+"5,10 methyltetrahydrofolate",Metabolite,35320055
+ABCB1,Gene,33954114
+ABCC2,Gene,33954114
+ABCG2,Gene,33954114
+APC,Gene,33954114
+apoptosis,Pathway,34462428
+AXIN1,Gene,33954114
+AXIN2,Gene,33954114
+BCL9,Gene,33954114
+BMI1,Gene,33954114
+BRG1,Gene,33954114
+BTRC,Gene,33954114
+CBY1,Gene,33954114
+CCND1,Gene,33954114
+CD44,Gene,33954114
+CDA,Gene,27569869
+CDH1,Gene,33954114
+CDH2,Gene,33954114
+CES*,Gene,27569869
+citric acid,Metabolite,34151400
+CREBBP,Gene,33954114
+CSNK1A1,Gene,33954114
+CTNNA1,Gene,33954114
+CTNNB1,Gene,33954114
+CTNNBIP1,Gene,33954114
+CTNND1,Gene,33954114
+CYLD,Gene,33954114
+deoxyadenosylcobalamin,Metabolite,21332317
+DHFR,Gene,21332317
+Dihydrofluorouracil,Metabolite,21332317
+dihydrofolate,Metabolite,35320055
+disulfide cystine,Metabolite,34151400
+DKK1,Gene,33954114
+DKK2,Gene,33954114
+DNA repair,Pathway,35320055
+DNA replication,Pathway,35320055
+DNMT3A,Gene,33954114
+DPD,Metabolite,PMC3837334
+DPYD,Gene,21332317; 35320055
+DVL1,Gene,33954114
+DVL2,Gene,33954114
+DVL3,Gene,33954114
+E2F1,Gene,34151400
+FdUDP,Metabolite,PMC3837338
+FdUMP,Metabolite,PMC3837339
+FdUTP,Metabolite,PMC3837337
+Formyltetrahydrofolate,Metabolite,21332317
+FUDP,Metabolite,PMC3837336
+FUDR,Metabolite,PMC3837340
+FUMP,Metabolite,PMC3837335
+FURIN,Gene,PMC3837334
+FUTP,Metabolite,PMC3837341
+FZD*,Gene,33954114
+glycine biosynthesis,Pathway,33801846
+GSK3B,Gene,33954114
+Hedgehog,Pathway,35320055
+homocysteine,Metabolite,21332317
+JAK/STAT,Pathway,35320055
+LEF1,Gene,33954114
+LGR5,Gene,33954114
+LGR6,Gene,33954114
+LRP5,Gene,33954114
+LRP6,Gene,33954114
+malic acid,Metabolite,34151400
+methotrexate,Metabolite,35320055
+methylcobalamin,Metabolite,21332317
+MGLH1,Gene,26479312
+MGMT,Gene,26479312
+MTHFR,Gene,21332317
+MYC,Gene,33954114
+NANOG,Gene,33954114
+NF-kappaB,Pathway,35320055
+NLK,Gene,33954114
+Notch,Pathway,35320055
+nucleotide synthesis,Pathway,34462428
+Oxidative stress,Pathway,34151400
+PAR1,Gene,33954114
+PPP2CA,Gene,33954114
+PROC,Gene,33954114
+PSAT1,Gene,33801846
+Purine sythesis,Pathway,35320055
+PYGO1,Gene,33954114
+PYGO2,Gene,33954114
+Pyrimidine nucleosides,Metabolite class,34151400
+pyrimidine salvage,Pathway,15319798
+RAC1,Gene,33954114
+ribosome biogenesis,Pathway,34462428
+RNF43,Gene,33954114
+RRM1,Gene,35320055
+RRM2,Gene,PMC3837334
+rRNA Processing,Pathway,34462428
+rRNA Synthesis,Pathway,34462428
+RSPO1,Gene,33954114
+serine,Metabolite,33801846
+serine biosynthesis,Pathway,33801846
+SFRP1,Gene,33954114
+SNAI1,Gene,33954114
+succinate,Metabolite,34151400
+TAB1,Gene,33954114
+TAB2,Gene,33954114
+TAFAZZIN,Gene,33954114
+TAK1,Gene,33954114
+tetrahydrofolate,Metabolite,35320055
+thymidine,Metabolite,21332317
+TNFSF10,Gene,34151400
+TNKS,Gene,33954114
+TP53,Gene,34151400
+Tricarboxylic acid cycle,Pathway,34151400
+TYMP,Gene,27569869
+TYMS,Gene,PMC3837334
+UCK1,Gene,PMC3837334
+UMPS,Gene,PMC3837334
+UPP1,Gene,PMC3837334; 15319798
+UPP2,Gene,PMC3837334
+uridine,Metabolite,21332317
+VIM,Gene,33954114
+WIF1,Gene,33954114
+WLS,Gene,33954114
+WNT,Gene,33954114
+Wnt signaling,Pathway,35320055
+WTX,Gene,33954114
+ZNRF3,Gene,33954114
