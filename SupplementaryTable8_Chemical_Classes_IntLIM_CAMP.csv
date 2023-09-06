@@ -1,0 +1,26 @@
+category,class_name,met_hits,pop_hits,met_size,pop_size,p-value,adjP_BH
+ClassyFire_class,Carboxylic acids and derivatives,23,4270,154,145833,1.77E-10,2.84E-09
+ClassyFire_class,Steroids and steroid derivatives,13,2249,154,145833,9.42E-07,7.54E-06
+ClassyFire_class,Sphingolipids,5,650,154,145833,0.000678244,0.003617302
+ClassyFire_class,Fatty Acyls,13,4987,154,145833,0.002563266,0.010253064
+ClassyFire_class,Imidazopyrimidines,2,272,154,145833,0.033915886,0.108530836
+ClassyFire_class,Carboximidic acids and derivatives,1,41,154,145833,0.04239952,0.113065386
+ClassyFire_class,Pyrimidine nucleosides,1,100,154,145833,0.100297576,0.211569156
+ClassyFire_class,Azoles,2,522,154,145833,0.105784578,0.211569156
+ClassyFire_class,Keto acids and derivatives,1,122,154,145833,0.120984734,0.215083972
+ClassyFire_class,Indoles and derivatives,2,634,154,145833,0.144965423,0.231944677
+ClassyFire_class,Organonitrogen compounds,2,685,154,145833,0.163679553,0.23807935
+ClassyFire_class,Diazines,1,388,154,145833,0.3366734,0.448897866
+ClassyFire_class,Flavonoids,1,1696,154,145833,0.83509977,0.975644483
+ClassyFire_class,Organooxygen compounds,2,3435,154,145833,0.880101909,0.975644483
+ClassyFire_class,Glycerolipids,38,42786,154,145833,0.914666703,0.975644483
+ClassyFire_class,Glycerophospholipids,47,62689,154,145833,0.999441574,0.999441574
+LipidMaps_main_class,Glycerophosphocholines [GP01],27,1777,83,44704,7.32E-18,6.59E-17
+LipidMaps_main_class,Steroid conjugates [ST05],5,164,83,44704,1.44E-05,4.51E-05
+LipidMaps_main_class,Diradylglycerols [GL02],8,593,83,44704,1.50E-05,4.51E-05
+LipidMaps_main_class,Phosphosphingolipids [SP03],5,337,83,44704,0.000423917,0.000953813
+LipidMaps_main_class,Glycerophosphoethanolamines [GP02],9,1349,83,44704,0.00089593,0.001612674
+LipidMaps_main_class,Sterols [ST01],7,1175,83,44704,0.006252599,0.009378899
+LipidMaps_main_class,Fatty esters [FA07],5,1656,83,44704,0.194158294,0.228439156
+LipidMaps_main_class,Triradylglycerols [GL03],16,6901,83,44704,0.203057028,0.228439156
+LipidMaps_main_class,Octadecanoids [FA02],1,618,83,44704,0.685402548,0.685402548
