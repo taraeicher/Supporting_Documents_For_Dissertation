@@ -47,7 +47,7 @@ SMPD3,QI4458,-0.055047212,0.000234861,0.015680016,0.151926174,SM(d18:1/24:0),sph
 P4HB,QI5166,-0.061016215,0.001445782,0.04401117,0.138115702,TG(52:2),prolyl 4-hydroxylase subunit beta,procollagen L-proline + 2-oxoglutarate + O2 = procollagen trans-4-hydroxy-L-proline + succinate + CO2,
 LIPG,QI6372,-0.127732048,0.000933411,0.034435218,0.108330108,TG(54:8),"lipase G, endothelial type",,
 MOGAT3,QI4868,-0.168285147,0.000951979,0.034819812,0.122464034,TG(58:11),monoacylglycerol O-acyltransferase 3,acyl-CoA + 2-acylglycerol = CoA + diacylglycerol,
-Rhea Reactions,,,,,,,,,
+Rhea Reactions (labels obtained directly from Rhea),,,,,,,,,
 Analyte1,Analyte2,interaction_coeff,Pval,FDRadjPval,rsquared,metabName,gene,metab,label
 CKM,QI6188,-0.108245935,0.001328587,0.041981229,0.159443658,creatine,CKM,QI6188,ATP + creatine = ADP + H(+) + N-phosphocreatine
 PLA2G6,QI3762,-0.056158191,0.001770694,0.049271042,0.15519755,PC(38:4),PLA2G6,QI3762,"1-octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphocholine + H2O = (5Z,8Z,11Z,14Z)-eicosatetraenoate + 1-octadecanoyl-sn-glycero-3-phosphocholine + H(+)"
