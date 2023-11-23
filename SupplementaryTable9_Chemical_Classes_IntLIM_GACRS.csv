@@ -1,35 +1,20 @@
 category,class_name,met_hits,pop_hits,met_size,pop_size,p-value,adjP_BH
-ClassyFire_class,Carboxylic acids and derivatives,17,4270,112,145833,3.16E-08,4.95E-07
-ClassyFire_class,Fatty Acyls,18,4987,112,145833,5.21E-08,4.95E-07
-ClassyFire_class,Imidazopyrimidines,3,272,112,145833,0.001258567,0.007970923
-ClassyFire_class,Steroids and steroid derivatives,7,2249,112,145833,0.001826643,0.008676553
-ClassyFire_class,Hydroxy acids and derivatives,2,127,112,145833,0.004392964,0.016693262
-ClassyFire_class,Indoles and derivatives,3,634,112,145833,0.013132495,0.03808144
-ClassyFire_class,Sphingolipids,3,650,112,145833,0.014030004,0.03808144
-ClassyFire_class,Organonitrogen compounds,3,685,112,145833,0.016112396,0.038266942
-ClassyFire_class,Carboximidic acids and derivatives,1,41,112,145833,0.031013187,0.065472283
-ClassyFire_class,Organic sulfonic acids and derivatives,1,58,112,145833,0.043590991,0.082822883
-ClassyFire_class,Phenylpropanoic acids,1,84,112,145833,0.062515326,0.107981018
-ClassyFire_class,Keto acids and derivatives,1,122,112,145833,0.089508295,0.141721468
-ClassyFire_class,Purine nucleosides,1,143,112,145833,0.10409351,0.152136669
-ClassyFire_class,Diazines,1,388,112,145833,0.2580649,0.350230936
-ClassyFire_class,Pyridines and derivatives,1,498,112,145833,0.318366321,0.403264007
-ClassyFire_class,Glycerolipids,27,42786,112,145833,0.908482422,0.999999996
-ClassyFire_class,Organooxygen compounds,1,3435,112,145833,0.930793609,0.999999996
-ClassyFire_class,Prenol lipids,1,3940,112,145833,0.953519261,0.999999996
-ClassyFire_class,Glycerophospholipids,20,62689,112,145833,0.999999996,0.999999996
-LipidMaps_main_class,Glycerophosphocholines [GP01],12,1777,58,44704,2.44E-06,3.66E-05
-LipidMaps_main_class,Fatty Acids and Conjugates [FA01],12,2764,58,44704,0.00018836,0.001412696
-LipidMaps_main_class,Steroid conjugates [ST05],3,164,58,44704,0.001289645,0.006448227
-LipidMaps_main_class,Glycerophosphoethanolamines [GP02],5,1349,58,44704,0.030482259,0.114308471
-LipidMaps_main_class,Sphingoid bases [SP01],1,100,58,44704,0.1218762,0.365628599
-LipidMaps_main_class,Fatty esters [FA07],4,1656,58,44704,0.167320753,0.366711372
-LipidMaps_main_class,Diradylglycerols [GL02],2,593,58,44704,0.179616188,0.366711372
-LipidMaps_main_class,Sterols [ST01],3,1175,58,44704,0.195579399,0.366711372
-LipidMaps_main_class,Steroids [ST02],1,249,58,44704,0.276866496,0.46144416
-LipidMaps_main_class,Ceramides [SP02],1,283,58,44704,0.308273991,0.462410987
-LipidMaps_main_class,Phosphosphingolipids [SP03],1,337,58,44704,0.355421823,0.484666123
-LipidMaps_main_class,Triradylglycerols [GL03],10,6901,58,44704,0.405315891,0.506644863
-LipidMaps_main_class,Octadecanoids [FA02],1,618,58,44704,0.554207568,0.639470271
-LipidMaps_main_class,Eicosanoids [FA03],1,1210,58,44704,0.796586129,0.853485138
-LipidMaps_main_class,Isoprenoids [PR01],1,1625,58,44704,0.883391482,0.883391482
+ClassyFire_class,Glycerolipids,27,81,109,429,0.022285574,0.423425915
+ClassyFire_class,Indoles and derivatives,3,6,109,429,0.1717338,0.828989319
+ClassyFire_class,Imidazopyrimidines,3,7,109,429,0.247220543,0.828989319
+ClassyFire_class,Organic sulfonic acids and derivatives,1,1,109,429,0.253488372,0.828989319
+ClassyFire_class,Carboxylic acids and derivatives,17,62,109,429,0.328217384,0.828989319
+ClassyFire_class,Phenylpropanoic acids,1,2,109,429,0.44316149,0.828989319
+ClassyFire_class,Prenol lipids,1,2,109,429,0.44316149,0.828989319
+ClassyFire_class,Organonitrogen compounds,3,11,109,429,0.553836957,0.828989319
+ClassyFire_class,Sphingolipids,3,11,109,429,0.553836957,0.828989319
+ClassyFire_class,Carboximidic acids and derivatives,1,3,109,429,0.584973166,0.828989319
+ClassyFire_class,Diazines,1,3,109,429,0.584973166,0.828989319
+ClassyFire_class,Hydroxy acids and derivatives,1,3,109,429,0.584973166,0.828989319
+ClassyFire_class,Steroids and steroid derivatives,7,30,109,429,0.658910991,0.828989319
+ClassyFire_class,Glycerophospholipids,20,87,109,429,0.66968813,0.828989319
+ClassyFire_class,Purine nucleosides,1,5,109,429,0.770001457,0.828989319
+ClassyFire_class,Pyridines and derivatives,1,5,109,429,0.770001457,0.828989319
+ClassyFire_class,Fatty Acyls,16,74,109,429,0.779439324,0.828989319
+ClassyFire_class,Keto acids and derivatives,1,6,109,429,0.828989319,0.828989319
+ClassyFire_class,Organooxygen compounds,1,6,109,429,0.828989319,0.828989319
